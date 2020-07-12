@@ -1,3 +1,3 @@
 Запустить в виртуальном окружении с помощью python manage.py runserver <br>
-Если будут вопросы - в слаке Svetlana Tereshcenko
+Если будут вопросы - в слаке Svetlana Tereshcenko<br>
 Вход с помощью github реализован только на главной странице с издательствами.
